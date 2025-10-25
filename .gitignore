@@ -1,0 +1,6 @@
+# Exclure seulement les fichiers de environment
+.env
+.env.*
+*.env
+
+# Garder tout le reste (node_modules, dist, etc. seront inclus)
